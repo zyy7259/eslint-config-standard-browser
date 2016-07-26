@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-standard-browser",
+  "version": "1.0.0",
+  "description": "ESLint Shareable Config for browser in JavaScript Standard Style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyy7259/eslint-config-standard-browser.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyy7259/eslint-config-standard-browser/issues"
+  },
+  "homepage": "https://github.com/zyy7259/eslint-config-standard-browser#readme",
+  "dependencies": {
+    "eslint-config-standard": "^5.3.5"
+  },"keywords": [
+    "JavaScript Standard Style",
+    "eslint",
+    "eslintconfig"
+  ]
+}
